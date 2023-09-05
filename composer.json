@@ -1,0 +1,7 @@
+{
+    "require": {
+        "studio-42/elfinder": "2.1.x@dev",
+        "kunalvarma05/dropbox-php-sdk": "^0.4.2",
+        "google/apiclient": "^2.0"
+    }
+}
